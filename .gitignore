@@ -1,0 +1,19 @@
+# General folders
+/old/
+/debug/
+/.idea/
+/gmall/examples/
+/warehouse
+/gmall/target
+
+# General files
+*.tmp
+*.bak
+*.bck
+*.old
+*- Copy.*
+*- Copy (*).*
+*.log
+*.iml
+
+
